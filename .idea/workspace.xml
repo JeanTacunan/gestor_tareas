@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4896b62a-7f4c-4c43-bac6-d01a10133125" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gestor_tareas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/gestor_tareas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vista/gui_gestor_tareas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_gestor_tareas.py" afterDir="false" />
+    <list default="true" id="4896b62a-7f4c-4c43-bac6-d01a10133125" name="Changes" comment="Iniciando Proyecto">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/gestor_tareas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vista/gui_gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/gui_gestor_tareas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_gestor_tareas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +19,68 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oQvaFbBURb18002DRTrO8jDE7W" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/UNIVERSIDAD CONTINENTAL/7 CICLO/CONSTRUCCION DE SOFTWARE/gestor_tareas"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_gestor_tareas.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui_gestor_tareas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/gestor__tareas&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/UNIVERSIDAD CONTINENTAL/7 CICLO/CONSTRUCCION DE SOFTWARE/gestor_tareas&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python.gui_gestor_tareas">
+    <configuration name="gui_gestor_tareas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gestor_tareas" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/vista" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/vista/gui_gestor_tareas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_gestor_tareas.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="gestor_tareas" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_gestor_tareas.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gui_gestor_tareas" />
+        <item itemvalue="Python tests.Python tests in test_gestor_tareas.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,6 +97,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730814675651</updated>
     </task>
+    <task id="LOCAL-00001" summary="Iniciando Proyecto">
+      <option name="closed" value="true" />
+      <created>1730838087071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730838087071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iniciando Proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iniciando Proyecto" />
   </component>
 </project>
