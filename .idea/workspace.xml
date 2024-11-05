@@ -19,23 +19,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oQvaFbBURb18002DRTrO8jDE7W" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_gestor_tareas.py.executor": "Run",
-    "Python.gui_gestor_tareas.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/gestor__tareas",
-    "last_opened_file_path": "C:/UNIVERSIDAD CONTINENTAL/7 CICLO/CONSTRUCCION DE SOFTWARE/gestor_tareas"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_gestor_tareas.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui_gestor_tareas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/gestor__tareas&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/UNIVERSIDAD CONTINENTAL/7 CICLO/CONSTRUCCION DE SOFTWARE/gestor_tareas&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.gui_gestor_tareas">
     <configuration name="gui_gestor_tareas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="gestor_tareas" />
