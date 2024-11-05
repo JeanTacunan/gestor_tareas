@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4896b62a-7f4c-4c43-bac6-d01a10133125" name="Changes" comment="Iniciando Proyecto" />
+    <list default="true" id="4896b62a-7f4c-4c43-bac6-d01a10133125" name="Changes" comment="Tenkiu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JeanTacunan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JeanTacunan/gestor_tareas.git",
+    "accountId": "ae4b6b10-4d54-42ce-8a59-d921f3067de4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -30,7 +42,7 @@
     "last_opened_file_path": "C:/UNIVERSIDAD CONTINENTAL/7 CICLO/CONSTRUCCION DE SOFTWARE/gestor_tareas"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.gui_gestor_tareas">
+  <component name="RunManager">
     <configuration name="gui_gestor_tareas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="gestor_tareas" />
       <option name="ENV_FILES" value="" />
@@ -99,11 +111,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730838087071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tenkiu">
+      <option name="closed" value="true" />
+      <created>1730839742855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730839742855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciando Proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciando Proyecto" />
+    <MESSAGE value="Tenkiu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tenkiu" />
   </component>
 </project>
